@@ -56,7 +56,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![image](https://github.com/user-attachments/assets/8a4362f0-6aea-4fca-9c15-661ee033877c)
+![image](https://github.com/user-attachments/assets/5cb0fb34-ef8e-42c4-9f20-de3b35adc433)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
